@@ -11,6 +11,9 @@ public class Rotacion : MonoBehaviour {
     //Variable Booleana para controlar cada tanto tiempo que al estar colisionando con el obstaculo dañará al player
     bool Dañando = true;
 
+    [SerializeField]
+    private int velocidadBarraGiratoria;
+
     //referencia a GameManager
 
 
@@ -61,6 +64,6 @@ public class Rotacion : MonoBehaviour {
 
      void RotacionObstaculo()
     {
-        transform.Rotate(Vector3.forward * -10);
+        transform.Rotate(Vector3.forward * velocidadBarraGiratoria);
     }
 }
