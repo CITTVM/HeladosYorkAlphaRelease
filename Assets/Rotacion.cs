@@ -12,7 +12,7 @@ public class Rotacion : MonoBehaviour {
     bool Dañando = true;
 
     [SerializeField]
-    private int velocidadBarraGiratoria;
+    private int velocidadBarraGiratoria = -20;
 
     //referencia a GameManager
 
