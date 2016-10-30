@@ -240,6 +240,7 @@ public class ControlPlayer : MonoBehaviour
         {
             if (!canMoveInAir && !isGrounded)
                 return;
+            //VALIDA QUE LA POSICION NO SUPERE EL LIMITE ESTABLECIDO
             if (!(transform.position.x >= posMinDer))
             {
                 moveDer();
@@ -252,6 +253,8 @@ public class ControlPlayer : MonoBehaviour
         {
             if (!canMoveInAir && !isGrounded)
                 return;
+
+            //VALIDA QUE LA POSICION NO SUPERE EL LIMITE ESTABLECIDO
             if (!(transform.position.x <= posMinIzq))
             {
                 moveIzq();
@@ -259,6 +262,8 @@ public class ControlPlayer : MonoBehaviour
 
         }
     }
+
+
     //public void Move(float horizonalInput)
     //{
     //    if (!canMoveInAir && !isGrounded)
@@ -268,6 +273,8 @@ public class ControlPlayer : MonoBehaviour
     //    moveVel.x = horizonalInput * speed;
     //    myBody.velocity = moveVel;
     //}
+
+
 
     public void Jump()
     {
