@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a631d76ab66e52f4aa09db52b98abeb1
+timeCreated: 1457044505
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - compSuelo: {instanceID: 0}
+  - bullet1: {fileID: 176314, guid: ba9af7e07aa3798459db33befbdca382, type: 2}
+  - bullet2: {instanceID: 0}
+  - CanvasInventario: {instanceID: 0}
+  - HidroTransform: {instanceID: 0}
+  - salto: {instanceID: 0}
+  - aterrizar: {instanceID: 0}
+  - pisada1: {instanceID: 0}
+  - pisada2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

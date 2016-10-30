@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 94c28cd8a626b9e48bbcb8d702fcc46c
+timeCreated: 1465797691
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: perseguidor-caminando _0
+    21300002: perseguidor-caminando _1
+    21300004: perseguidor-caminando _2
+    21300006: perseguidor-caminando _3
+    21300008: perseguidor-caminando _4
+    21300010: perseguidor-caminando _5
+    21300012: perseguidor-caminando _6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: perseguidor-caminando _0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: perseguidor-caminando _1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: perseguidor-caminando _2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -37}
+        - {x: 16.5, y: 7}
+        - {x: 8.5, y: 37}
+        - {x: -12.5, y: 37}
+        - {x: -16.5, y: 10}
+        - {x: -16.5, y: -37}
+        - {x: -1.5, y: -37}
+        - {x: -5.5, y: -28}
+        - {x: 0.5, y: -36}
+        - {x: 3.5, y: -37}
+    - name: perseguidor-caminando _3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 36.5}
+        - {x: -8.5, y: 36.5}
+        - {x: -16.5, y: -0.5}
+        - {x: -16.5, y: -35.5}
+        - {x: -15.5, y: -36.5}
+        - {x: 16.5, y: -36.5}
+        - {x: 16.5, y: 21.5}
+    - name: perseguidor-caminando _4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 37.5}
+        - {x: -7, y: 37.5}
+        - {x: -11, y: 30.5}
+        - {x: -16, y: 0.5}
+        - {x: -16, y: -37.5}
+        - {x: 16, y: -37.5}
+        - {x: 16, y: 9.5}
+        - {x: 11, y: 24.5}
+    - name: perseguidor-caminando _5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: perseguidor-caminando _6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

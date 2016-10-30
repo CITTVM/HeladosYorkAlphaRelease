@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &170852
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 411002}
+  - 114: {fileID: 11493950}
+  m_Layer: 0
+  m_Name: ControlPlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &411002
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 170852}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -197.54623, y: -11.421139, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11493950
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 170852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a631d76ab66e52f4aa09db52b98abeb1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 15
+  jumpVelocity: 40
+  playerMask:
+    serializedVersion: 2
+    m_Bits: 823
+  canMoveInAir: 1
+  isGrounded: 0
+  lado: 
+  compSuelo: {fileID: 494188, guid: 570c4c2fc39ee954fbd71c7c7432bca9, type: 2}
+  mascaraSuelo:
+    serializedVersion: 2
+    m_Bits: 256
+  playerHealthTexture: {fileID: 2800000, guid: e7750174427ed6c4183f6e344994696c, type: 3}
+  screenPositionX: 0
+  screenPositionY: 0
+  iconSizeX: 25
+  iconSizeY: 25
+  playerHealth: 5
+  bullet1: {fileID: 168290, guid: 070c72b2a5e67a94d83e6fbd11995e2a, type: 2}
+  bullet2: {fileID: 183040, guid: 365f600197488a34ba8fc787c9121b30, type: 2}
+  CanvasInventario: {fileID: 130532, guid: 48f14c9543264b6429a3328abf4c370c, type: 2}
+  HidroTransform: {fileID: 22477556, guid: a6f21beb8bd976c4aaa7fe6c70f97e2b, type: 2}
+  MaxHidratacion: 5000
+  salto: {fileID: 8244938, guid: 560d01f5c40a2e44c9c659c5669d513a, type: 2}
+  aterrizar: {fileID: 8283058, guid: 515a74fa82573f0428662660ae5a154a, type: 2}
+  pisada1: {fileID: 8234712, guid: c9a5a808f95fdca4896657f9f00bea33, type: 2}
+  pisada2: {fileID: 8210074, guid: 52d07f997a62ced489527a90b1170f37, type: 2}
+  Disparo: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 170852}
+  m_IsPrefabParent: 1

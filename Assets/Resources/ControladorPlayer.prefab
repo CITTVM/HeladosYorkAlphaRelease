@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &107008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 439400}
+  - 114: {fileID: 11495364}
+  m_Layer: 0
+  m_Name: ControladorPlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &439400
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -204.35518, y: -14.6680765, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11495364
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a631d76ab66e52f4aa09db52b98abeb1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 15
+  jumpVelocity: 40
+  playerMask:
+    serializedVersion: 2
+    m_Bits: 823
+  canMoveInAir: 1
+  isGrounded: 0
+  lado: 
+  compSuelo: {fileID: 0}
+  mascaraSuelo:
+    serializedVersion: 2
+    m_Bits: 0
+  playerHealthTexture: {fileID: 0}
+  screenPositionX: 0
+  screenPositionY: 0
+  iconSizeX: 25
+  iconSizeY: 25
+  playerHealth: 5
+  bullet1: {fileID: 168290, guid: 070c72b2a5e67a94d83e6fbd11995e2a, type: 2}
+  bullet2: {fileID: 183040, guid: 365f600197488a34ba8fc787c9121b30, type: 2}
+  CanvasInventario: {fileID: 130532, guid: 48f14c9543264b6429a3328abf4c370c, type: 2}
+  HidroTransform: {fileID: 0}
+  MaxHidratacion: 5000
+  salto: {fileID: 0}
+  aterrizar: {fileID: 0}
+  pisada1: {fileID: 0}
+  pisada2: {fileID: 0}
+  Disparo: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: playerMask.m_Bits
+      value: 823
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 107008}
+  m_IsPrefabParent: 1
