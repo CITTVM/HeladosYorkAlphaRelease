@@ -1,0 +1,1851 @@
+fileFormatVersion: 2
+guid: 0a6c6500eaedd4623a0bc409b916b2d8
+timeCreated: 1480384255
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_slimes_0
+    21300002: Sprites_slimes_1
+    21300004: Sprites_slimes_2
+    21300006: Sprites_slimes_3
+    21300008: Sprites_slimes_4
+    21300010: Sprites_slimes_5
+    21300012: Sprites_slimes_6
+    21300014: Sprites_slimes_7
+    21300016: Sprites_slimes_8
+    21300018: Sprites_slimes_9
+    21300020: Sprites_slimes_10
+    21300022: Sprites_slimes_11
+    21300024: Sprites_slimes_12
+    21300026: Sprites_slimes_13
+    21300028: Sprites_slimes_14
+    21300030: Sprites_slimes_15
+    21300032: Sprites_slimes_16
+    21300034: Sprites_slimes_17
+    21300036: Sprites_slimes_18
+    21300038: Sprites_slimes_19
+    21300040: Sprites_slimes_20
+    21300042: Sprites_slimes_21
+    21300044: Sprites_slimes_22
+    21300046: Sprites_slimes_23
+    21300048: Sprites_slimes_24
+    21300050: Sprites_slimes_25
+    21300052: Sprites_slimes_26
+    21300054: Sprites_slimes_27
+    21300056: Sprites_slimes_28
+    21300058: Sprites_slimes_29
+    21300060: Sprites_slimes_30
+    21300062: Sprites_slimes_31
+    21300064: Sprites_slimes_32
+    21300066: Sprites_slimes_33
+    21300068: Sprites_slimes_34
+    21300070: Sprites_slimes_35
+    21300072: Sprites_slimes_36
+    21300074: Sprites_slimes_37
+    21300076: Sprites_slimes_38
+    21300078: Sprites_slimes_39
+    21300080: Sprites_slimes_40
+    21300082: Sprites_slimes_41
+    21300084: Sprites_slimes_42
+    21300086: Sprites_slimes_43
+    21300088: Sprites_slimes_44
+    21300090: Sprites_slimes_45
+    21300092: Sprites_slimes_46
+    21300094: Sprites_slimes_47
+    21300096: Sprites_slimes_48
+    21300098: Sprites_slimes_49
+    21300100: Sprites_slimes_50
+    21300102: Sprites_slimes_51
+    21300104: Sprites_slimes_52
+    21300106: Sprites_slimes_53
+    21300108: Sprites_slimes_54
+    21300110: Sprites_slimes_55
+    21300112: Sprites_slimes_56
+    21300114: Sprites_slimes_57
+    21300116: Sprites_slimes_58
+    21300118: Sprites_slimes_59
+    21300120: Sprites_slimes_60
+    21300122: Sprites_slimes_61
+    21300124: Sprites_slimes_62
+    21300126: Sprites_slimes_63
+    21300128: Sprites_slimes_64
+    21300130: Sprites_slimes_65
+    21300132: Sprites_slimes_66
+    21300134: Sprites_slimes_67
+    21300136: Sprites_slimes_68
+    21300138: Sprites_slimes_69
+    21300140: Sprites_slimes_70
+    21300142: Sprites_slimes_71
+    21300144: Sprites_slimes_72
+    21300146: Sprites_slimes_73
+    21300148: Sprites_slimes_74
+    21300150: Sprites_slimes_75
+    21300152: Sprites_slimes_76
+    21300154: Sprites_slimes_77
+    21300156: Sprites_slimes_78
+    21300158: Sprites_slimes_79
+    21300160: Sprites_slimes_80
+    21300162: Sprites_slimes_81
+    21300164: Sprites_slimes_82
+    21300166: Sprites_slimes_83
+    21300168: Sprites_slimes_84
+    21300170: Sprites_slimes_85
+    21300172: Sprites_slimes_86
+    21300174: Sprites_slimes_87
+    21300176: Sprites_slimes_88
+    21300178: Sprites_slimes_89
+    21300180: Sprites_slimes_90
+    21300182: Sprites_slimes_91
+    21300184: Sprites_slimes_92
+    21300186: Sprites_slimes_93
+    21300188: Sprites_slimes_94
+    21300190: Sprites_slimes_95
+    21300192: Sprites_slimes_96
+    21300194: Sprites_slimes_97
+    21300196: Sprites_slimes_98
+    21300198: Sprites_slimes_99
+    21300200: Sprites_slimes_100
+    21300202: Sprites_slimes_101
+    21300204: Sprites_slimes_102
+    21300206: Sprites_slimes_103
+    21300208: Sprites_slimes_104
+    21300210: Sprites_slimes_105
+    21300212: Sprites_slimes_106
+    21300214: Sprites_slimes_107
+    21300216: Sprites_slimes_108
+    21300218: Sprites_slimes_109
+    21300220: Sprites_slimes_110
+    21300222: Sprites_slimes_111
+    21300224: Sprites_slimes_112
+    21300226: Sprites_slimes_113
+    21300228: Sprites_slimes_114
+    21300230: Sprites_slimes_115
+    21300232: Sprites_slimes_116
+    21300234: Sprites_slimes_117
+    21300236: Sprites_slimes_118
+    21300238: Sprites_slimes_119
+    21300240: Sprites_slimes_120
+    21300242: Sprites_slimes_121
+    21300244: Sprites_slimes_122
+    21300246: Sprites_slimes_123
+    21300248: Sprites_slimes_124
+    21300250: Sprites_slimes_125
+    21300252: Sprites_slimes_126
+    21300254: Sprites_slimes_127
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites_slimes_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 899
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 899
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 899
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 899
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 899
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 898
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 899
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 848
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 848
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 848
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 848
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 848
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 849
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 849
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 849
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 849
+        width: 33
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 785
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 787
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 785
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 787
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 787
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 787
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 787
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 728
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 728
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 728
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 728
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 728
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 728
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_29
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 729
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 729
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 729
+        width: 33
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 668
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 670
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 668
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_35
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 670
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 670
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 670
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 670
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 614
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 614
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 615
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 614
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 614
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 614
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_45
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 614
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 614
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_47
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 614
+        width: 33
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 550
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 552
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 550
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_51
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 552
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 550
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_53
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 552
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 552
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 498
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 498
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 498
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 499
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 498
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_60
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 498
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 498
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_62
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 498
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 498
+        width: 33
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_64
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 437
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 439
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_66
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 437
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 439
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 439
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_69
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 439
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_70
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 439
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 384
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 384
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 385
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 384
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_75
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 384
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_76
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 384
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_77
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 384
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_78
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 384
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_79
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 384
+        width: 33
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 332
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_81
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 332
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_82
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 329
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 334
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 334
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_85
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 332
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_86
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 332
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 284
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 282
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_89
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 282
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 281
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_91
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 282
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_92
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 282
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_93
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 282
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_94
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 282
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 282
+        width: 33
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_96
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 215
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_97
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 214
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 215
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_99
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 216
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_100
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 216
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_101
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 216
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_102
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 217
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 163
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_104
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 161
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_105
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 164
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_106
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 163
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 163
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_108
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 163
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_109
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 163
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_110
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 163
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_111
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 163
+        width: 33
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_112
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 86
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_113
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 88
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_114
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 86
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 88
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_116
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 88
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_117
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 88
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_118
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 88
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_119
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 38
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_120
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 38
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_121
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 38
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_122
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 38
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_123
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 38
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_124
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 38
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_125
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 38
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_126
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 38
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprites_slimes_127
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 38
+        width: 33
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
