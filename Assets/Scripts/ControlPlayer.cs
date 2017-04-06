@@ -6,8 +6,10 @@ using UnityEngine.SceneManagement;
 
 public class ControlPlayer : MonoBehaviour
 {
-    public float posMinIzq;
-    public float posMinDer;
+    //Documentadas por postulacion para eliminarlas, por distintas razones que estarán en el commit
+    //public float posMinIzq;
+    //public float posMinDer;
+
     public float speed = 15, jumpVelocity = 40;
     public LayerMask playerMask;
     public bool canMoveInAir = true;
@@ -95,7 +97,7 @@ public class ControlPlayer : MonoBehaviour
         // en android el inventario comienza inactivo
 #if !UNITY_ANDROID && !UNITY_IPHONE && !UNITY_BLACKBERRY && !UNITY_WINRT || UNITY_EDITOR
 
-        CanvasInventario.active = false;
+        CanvasInventario.SetActive(false);
 #else
 		Move (hInput);
 #endif
@@ -123,15 +125,15 @@ public class ControlPlayer : MonoBehaviour
 
         }
 
-        if (transform.position.x <= posMinIzq)
+        /*if (transform.position.x <= posMinIzq)
         {
-            Debug.Log("Aquí debías parar");
+            //Debug.Log("Aquí debías parar");
         }
 
         if (transform.position.x >= posMinDer)
         {
-            Debug.Log("Aquí debías parar");
-        }
+            //Debug.Log("Aquí debías parar");
+        }*/
 
 
         //isGrounded = Physics2D.Linecast (myTrans.position, tagGround.position, playerMask);
@@ -181,12 +183,6 @@ public class ControlPlayer : MonoBehaviour
 
     //if(Input.GetButtonDown("CambiarArma"))}
     //cambiarArma();
-
-
-
-
-
-
 
 
 
@@ -240,12 +236,14 @@ public class ControlPlayer : MonoBehaviour
         {
             if (!canMoveInAir && !isGrounded)
                 return;
-            //VALIDA QUE LA POSICION NO SUPERE EL LIMITE ESTABLECIDO
+            else
+                moveDer();
+           
+            /*//VALIDA QUE LA POSICION NO SUPERE EL LIMITE ESTABLECIDO
             if (!(transform.position.x >= posMinDer))
             {
                 moveDer();
-            }
-
+            }*/
 
         }
 
@@ -253,26 +251,17 @@ public class ControlPlayer : MonoBehaviour
         {
             if (!canMoveInAir && !isGrounded)
                 return;
+            else
+                moveIzq();
 
-            //VALIDA QUE LA POSICION NO SUPERE EL LIMITE ESTABLECIDO
+            /*//VALIDA QUE LA POSICION NO SUPERE EL LIMITE ESTABLECIDO
             if (!(transform.position.x <= posMinIzq))
             {
                 moveIzq();
-            }
+            }*/
 
         }
     }
-
-
-    //public void Move(float horizonalInput)
-    //{
-    //    if (!canMoveInAir && !isGrounded)
-    //        return;
-
-    //    Vector2 moveVel = myBody.velocity;
-    //    moveVel.x = horizonalInput * speed;
-    //    myBody.velocity = moveVel;
-    //}
 
 
 
@@ -295,7 +284,8 @@ public class ControlPlayer : MonoBehaviour
     //abrir inventario
     public void abrirInventario()
     {
-        CanvasInventario.active = !CanvasInventario.active;
+        CanvasInventario.SetActive(!CanvasInventario.activeSelf);
+
     }
 
 
@@ -442,7 +432,7 @@ public class ControlPlayer : MonoBehaviour
     //reinicia la escena
     void RestartScene()
     {
-        SceneManager.LoadScene("GameOver");
+        SceneManager.LoadScene("Scenes/GUI/GameOver");
     }
     //METODO QUE AUMENTA VIDA (como maximo 5)
 

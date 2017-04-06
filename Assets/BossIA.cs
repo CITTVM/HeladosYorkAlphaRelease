@@ -16,7 +16,7 @@ public class BossIA : MonoBehaviour
     public float cooldown;
     public float bulletSpeed = 500;
     public float saltoCD;
-	public float tiempoInicio = Time.time;
+	public float tiempoInicio;
 	public int vidas;
 	public string terminoNivel;
 
@@ -48,6 +48,7 @@ public class BossIA : MonoBehaviour
 
     void Awake()
     {
+        tiempoInicio = Time.time;
         gameManager = GameObject.Find("Player").GetComponent<ControlPlayer>();
         alerta = false;
 		vidas = 5;
